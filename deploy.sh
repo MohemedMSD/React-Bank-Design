@@ -25,5 +25,3 @@ git commit -m 'deploy'
 
 # if you are deploying to https://<USERNAME>.github.io/<REPO>
 # git push -f git@github.com:MohemedMSD/React-Bank-Design.git main:gh-pages
-
-cd -
